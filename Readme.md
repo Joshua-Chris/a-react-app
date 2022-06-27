@@ -1,0 +1,1 @@
+This is a GitHub Repo with independent branches as React Applications.
